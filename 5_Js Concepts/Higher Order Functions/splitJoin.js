@@ -19,3 +19,11 @@ let joinedStr = partsOfString.join('c')
 console.log(joinedStr) // joined Str (pepcoder)
 
 
+
+
+
+
+
+
+
+
